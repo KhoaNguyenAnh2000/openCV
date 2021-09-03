@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ImageOpening.cpp
+E:\ABBBBB\HK 211\thị giác máy tính\projects\ImageOpening\ImageOpening.cpp(3,19): error C2871: 'cv': a namespace with this name does not exist
+E:\ABBBBB\HK 211\thị giác máy tính\projects\ImageOpening\ImageOpening.cpp(5,10): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Generating Code...

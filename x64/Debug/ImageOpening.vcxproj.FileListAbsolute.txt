@@ -1,0 +1,2 @@
+E:\ABBBBB\HK 211\thị giác máy tính\projects\ImageOpening\x64\Debug\ImageOpening.exe
+E:\ABBBBB\HK 211\thị giác máy tính\projects\ImageOpening\x64\Debug\ImageOpening.vcxproj.AssemblyReference.cache
